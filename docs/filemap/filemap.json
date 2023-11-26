@@ -26,8 +26,8 @@
       "id": "1950507412-1688849860294416",
       "name": "filemap.json",
       "parentId": "1950507412-844424930162386",
-      "size": 23405,
-      "modDate": "2023-11-26T09:48:50.981Z",
+      "size": 37273,
+      "modDate": "2023-11-26T10:06:26.349Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\filemap\\filemap.json"
     },
     "1950507412-1407374883583793": {
@@ -92,7 +92,7 @@
       "name": "T01.html",
       "parentId": "1950507412-1407374883583855",
       "size": 108104,
-      "modDate": "2023-11-15T04:43:24.022Z",
+      "modDate": "2023-11-26T10:11:19.935Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T01 - Introduction\\T01.html"
     },
     "1950507412-844424930162950": {
@@ -107,8 +107,8 @@
       "id": "1950507412-1125899906873794",
       "name": "T01.pdf",
       "parentId": "1950507412-1407374883583855",
-      "size": 635906,
-      "modDate": "2023-11-26T09:48:50.986Z",
+      "size": 635905,
+      "modDate": "2023-11-26T10:11:38.741Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T01 - Introduction\\T01.pdf"
     },
     "1950507412-4222124650752245": {
@@ -128,7 +128,7 @@
       "name": "T02.html",
       "parentId": "1950507412-4222124650752245",
       "size": 104650,
-      "modDate": "2023-11-15T04:43:24.383Z",
+      "modDate": "2023-11-26T10:11:22.790Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T02 - Node-Red\\T02.html"
     },
     "1950507412-3377699722058542": {
@@ -144,7 +144,7 @@
       "name": "T02.pdf",
       "parentId": "1950507412-4222124650752245",
       "size": 84645,
-      "modDate": "2023-11-26T09:48:50.988Z",
+      "modDate": "2023-11-26T10:11:40.069Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T02 - Node-Red\\T02.pdf"
     },
     "1950507412-1688849860860285": {
@@ -227,8 +227,8 @@
       "id": "1950507412-1688849860860286",
       "name": "T03.html",
       "parentId": "1950507412-1688849860860285",
-      "size": 106256,
-      "modDate": "2023-11-26T09:48:50.990Z",
+      "size": 106118,
+      "modDate": "2023-11-26T10:11:23.160Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T03 - HTTP GET\\T03.html"
     },
     "1950507412-1688849860860287": {
@@ -244,7 +244,7 @@
       "name": "T03.pdf",
       "parentId": "1950507412-1688849860860285",
       "size": 191388,
-      "modDate": "2023-11-26T09:48:50.992Z",
+      "modDate": "2023-11-26T10:11:41.215Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T03 - HTTP GET\\T03.pdf"
     },
     "1950507412-1688849860860297": {
@@ -345,8 +345,8 @@
       "id": "1950507412-1688849860860298",
       "name": "T04.html",
       "parentId": "1950507412-1688849860860297",
-      "size": 108175,
-      "modDate": "2023-11-26T09:48:51.002Z",
+      "size": 108019,
+      "modDate": "2023-11-26T10:11:22.992Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T04 - HTTP POST\\T04.html"
     },
     "1950507412-1688849860860299": {
@@ -362,7 +362,7 @@
       "name": "T04.pdf",
       "parentId": "1950507412-1688849860860297",
       "size": 147673,
-      "modDate": "2023-11-26T09:48:51.004Z",
+      "modDate": "2023-11-26T10:11:42.225Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T04 - HTTP POST\\T04.pdf"
     },
     "1950507412-1688849860860311": {
@@ -418,8 +418,8 @@
       "id": "1950507412-1688849860860312",
       "name": "T05.html",
       "parentId": "1950507412-1688849860860311",
-      "size": 100971,
-      "modDate": "2023-11-26T09:48:51.012Z",
+      "size": 100904,
+      "modDate": "2023-11-26T10:11:23.300Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T05 - Attendance\\T05.html"
     },
     "1950507412-1688849860860313": {
@@ -435,7 +435,7 @@
       "name": "T05.pdf",
       "parentId": "1950507412-1688849860860311",
       "size": 84500,
-      "modDate": "2023-11-26T09:48:51.015Z",
+      "modDate": "2023-11-26T10:11:43.231Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T05 - Attendance\\T05.pdf"
     },
     "1950507412-1688849860860319": {
@@ -527,8 +527,8 @@
       "id": "1950507412-1688849860860321",
       "name": "T06.html",
       "parentId": "1950507412-1688849860860319",
-      "size": 105899,
-      "modDate": "2023-11-26T09:48:51.020Z",
+      "size": 105773,
+      "modDate": "2023-11-26T10:11:23.452Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T06 - Line Notify\\T06.html"
     },
     "1950507412-1688849860860322": {
@@ -543,8 +543,8 @@
       "id": "1950507412-1688849860860323",
       "name": "T06.pdf",
       "parentId": "1950507412-1688849860860319",
-      "size": 173533,
-      "modDate": "2023-11-26T09:48:51.023Z",
+      "size": 173532,
+      "modDate": "2023-11-26T10:11:44.226Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T06 - Line Notify\\T06.pdf"
     },
     "1950507412-1688849860860332": {
@@ -553,7 +553,9 @@
       "isDir": true,
       "childrenIds": [
         "1950507412-1688849860860334",
-        "1950507412-1688849860860333"
+        "1950507412-16607023625952828",
+        "1950507412-1688849860860333",
+        "1950507412-14073748836129514"
       ],
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T07 - MQTT",
       "parentId": "1950507412-1407374883583793"
@@ -720,6 +722,14 @@
       "modDate": "2023-11-26T09:48:51.043Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T07 - MQTT\\img\\MQTT_topic_wildcard_plus_example.png"
     },
+    "1950507412-16607023625952828": {
+      "id": "1950507412-16607023625952828",
+      "name": "T07.html",
+      "parentId": "1950507412-1688849860860332",
+      "size": 129757,
+      "modDate": "2023-11-26T10:11:23.590Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T07 - MQTT\\T07.html"
+    },
     "1950507412-1688849860860333": {
       "id": "1950507412-1688849860860333",
       "name": "T07.md",
@@ -728,13 +738,23 @@
       "modDate": "2023-11-26T09:48:51.032Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T07 - MQTT\\T07.md"
     },
+    "1950507412-14073748836129514": {
+      "id": "1950507412-14073748836129514",
+      "name": "T07.pdf",
+      "parentId": "1950507412-1688849860860332",
+      "size": 1047369,
+      "modDate": "2023-11-26T10:11:46.733Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T07 - MQTT\\T07.pdf"
+    },
     "1950507412-12947848928752664": {
       "id": "1950507412-12947848928752664",
       "name": "T08 - Dashboard",
       "isDir": true,
       "childrenIds": [
         "1950507412-3096224744407711",
-        "1950507412-3940649674001113"
+        "1950507412-23080948090404372",
+        "1950507412-3940649674001113",
+        "1950507412-7318349395073808"
       ],
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T08 - Dashboard",
       "parentId": "1950507412-1407374883583793"
@@ -874,6 +894,14 @@
       "modDate": "2023-11-26T10:02:33.762Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T08 - Dashboard\\img\\M5_2_7.jpg"
     },
+    "1950507412-23080948090404372": {
+      "id": "1950507412-23080948090404372",
+      "name": "T08.html",
+      "parentId": "1950507412-12947848928752664",
+      "size": 121894,
+      "modDate": "2023-11-26T10:11:23.768Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T08 - Dashboard\\T08.html"
+    },
     "1950507412-3940649674001113": {
       "id": "1950507412-3940649674001113",
       "name": "T08.md",
@@ -881,6 +909,14 @@
       "size": 2011,
       "modDate": "2023-11-26T10:05:40.825Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T08 - Dashboard\\T08.md"
+    },
+    "1950507412-7318349395073808": {
+      "id": "1950507412-7318349395073808",
+      "name": "T08.pdf",
+      "parentId": "1950507412-12947848928752664",
+      "size": 962616,
+      "modDate": "2023-11-26T10:11:47.796Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-66\\lectures\\public\\lectures\\T08 - Dashboard\\T08.pdf"
     },
     "1950507412-844424930164602": {
       "id": "1950507412-844424930164602",
