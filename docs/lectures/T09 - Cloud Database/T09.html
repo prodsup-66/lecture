@@ -104,10 +104,13 @@ msg.<span class="hljs-property">payload</span> = {
 <span class="hljs-keyword">let</span> textOut = <span class="hljs-string">&quot;&quot;</span>;
 
 <span class="hljs-keyword">for</span> (<span class="hljs-keyword">const</span> [key, value] <span class="hljs-keyword">of</span> <span class="hljs-title class_">Object</span>.<span class="hljs-title function_">entries</span>(payload)) {
-  <span class="hljs-keyword">const</span> date = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(value.<span class="hljs-property">timestamp</span>);
-  <span class="hljs-keyword">const</span> datestring = date.<span class="hljs-title function_">toLocaleDateString</span>();
-  <span class="hljs-keyword">const</span> timestring = date.<span class="hljs-title function_">toLocaleTimeString</span>();
-  <span class="hljs-keyword">const</span> reading = value.<span class="hljs-property">value</span>.<span class="hljs-title function_">toFixed</span>(<span class="hljs-number">2</span>);
+  <span class="hljs-keyword">const</span> _date = value?.<span class="hljs-property">timestamp</span> ? <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(value.<span class="hljs-property">timestamp</span>) : <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();
+  <span class="hljs-keyword">let</span> reading = value.<span class="hljs-property">value</span>;
+  <span class="hljs-keyword">if</span> (<span class="hljs-built_in">parseFloat</span>(value.<span class="hljs-property">value</span>)) {
+    reading = value.<span class="hljs-property">value</span>.<span class="hljs-title function_">toFixed</span>(<span class="hljs-number">2</span>);
+  }
+  <span class="hljs-keyword">const</span> datestring = _date.<span class="hljs-title function_">toLocaleDateString</span>();
+  <span class="hljs-keyword">const</span> timestring = _date.<span class="hljs-title function_">toLocaleTimeString</span>();
   textOut += <span class="hljs-string">`<span class="hljs-subst">${datestring}</span> <span class="hljs-subst">${timestring}</span>: <span class="hljs-subst">${reading}</span> \n`</span>;
 }
 
