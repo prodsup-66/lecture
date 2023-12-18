@@ -111,7 +111,7 @@ msg.<span class="hljs-property">payload</span> = {
   <span class="hljs-keyword">const</span> _date = value?.<span class="hljs-property">timestamp</span> ? <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(value.<span class="hljs-property">timestamp</span>) : <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();
   <span class="hljs-keyword">let</span> reading = value.<span class="hljs-property">value</span>;
   <span class="hljs-keyword">if</span> (<span class="hljs-built_in">parseFloat</span>(value.<span class="hljs-property">value</span>)) {
-    reading = value.<span class="hljs-property">value</span>.<span class="hljs-title function_">toFixed</span>(<span class="hljs-number">2</span>);
+    reading = <span class="hljs-built_in">parseFloat</span>(value.<span class="hljs-property">value</span>).<span class="hljs-title function_">toFixed</span>(<span class="hljs-number">2</span>);
   }
   <span class="hljs-keyword">const</span> datestring = _date.<span class="hljs-title function_">toLocaleDateString</span>();
   <span class="hljs-keyword">const</span> timestring = _date.<span class="hljs-title function_">toLocaleTimeString</span>();
