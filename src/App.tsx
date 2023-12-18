@@ -1,6 +1,8 @@
 import FileBrowser from "./components/FileBrowser";
 import useData from "./lib/useData";
 
+const youtubeURL801 =
+  "https://youtube.com/playlist?list=PLNGLpHQhvGrtADMjrklIf4BfEilcXRWtY&si=X-wv_NSQfswt6_dN";
 const youtubeURL803 =
   "https://youtube.com/playlist?list=PLNGLpHQhvGrt3R8-qP3sbTfZvD9Ye6psv&si=HjpoGc7Q1PPYljuY";
 const pastProjectURL =
@@ -17,11 +19,18 @@ function App() {
 
         <div className="flex gap-2">
           <a
+            href={youtubeURL801}
+            target="_blank"
+            className="border px-2 py-1 rounded-lg bg-red-600 text-white text-sm lg:text-lg font-bold"
+          >
+            YT (001/801)
+          </a>
+          <a
             href={youtubeURL803}
             target="_blank"
             className="border px-2 py-1 rounded-lg bg-red-600 text-white text-sm lg:text-lg font-bold"
           >
-            Youtube VDO (003/803)
+            YT (003/803)
           </a>
           <a
             href={pastProjectURL}
