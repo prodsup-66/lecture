@@ -1,10 +1,12 @@
 import FileBrowser from "./components/FileBrowser";
 import useData from "./lib/useData";
 
-const youtubeURL801 =
+const ytURL_001 =
   "https://youtube.com/playlist?list=PLNGLpHQhvGrtADMjrklIf4BfEilcXRWtY&si=X-wv_NSQfswt6_dN";
-const youtubeURL803 =
+const ytURL_003 =
   "https://youtube.com/playlist?list=PLNGLpHQhvGrt3R8-qP3sbTfZvD9Ye6psv&si=HjpoGc7Q1PPYljuY";
+const ytURL_004 =
+  "https://youtube.com/playlist?list=PLNGLpHQhvGruI5ZjgURM4TOsVJMB1RV-N&si=AL5Mud7HZ3q2GdF2";
 const pastProjectURL =
   "https://youtube.com/playlist?list=PLNGLpHQhvGrtqn6UYxUYXm7C0auAYrh_O&si=GxlTb1B8mTPiG9f3";
 
@@ -19,18 +21,25 @@ function App() {
 
         <div className="flex gap-2">
           <a
-            href={youtubeURL801}
+            href={ytURL_001}
             target="_blank"
             className="border px-2 py-1 rounded-lg bg-red-600 text-white text-sm lg:text-lg font-bold"
           >
             YT (001/801)
           </a>
           <a
-            href={youtubeURL803}
+            href={ytURL_003}
             target="_blank"
             className="border px-2 py-1 rounded-lg bg-red-600 text-white text-sm lg:text-lg font-bold"
           >
             YT (003/803)
+          </a>
+          <a
+            href={ytURL_004}
+            target="_blank"
+            className="border px-2 py-1 rounded-lg bg-red-600 text-white text-sm lg:text-lg font-bold"
+          >
+            YT (004/804)
           </a>
           <a
             href={pastProjectURL}
