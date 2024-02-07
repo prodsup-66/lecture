@@ -27,7 +27,7 @@
       "name": "filemap.json",
       "parentId": "1760289687-1688849861414535",
       "size": 53120,
-      "modDate": "2024-01-04T07:45:30.428Z",
+      "modDate": "2024-02-05T02:43:05.554Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\filemap\\filemap.json"
     },
     "1760289687-1688849861414550": {
@@ -174,7 +174,12 @@
         "1760289687-1688849861414757",
         "1760289687-1688849861414758",
         "1760289687-1688849861414759",
-        "1760289687-1688849861414761"
+        "1760289687-1688849861414761",
+        "1760289687-25332747904001704",
+        "1760289687-7881299348046054",
+        "1760289687-16888498603658544",
+        "1760289687-3940649674972905",
+        "1760289687-2251799814708971"
       ],
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T03 - HTTP GET\\img",
       "parentId": "1760289687-3659174698389266"
@@ -227,28 +232,68 @@
       "modDate": "2023-11-23T03:10:26.685Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T03 - HTTP GET\\img\\M1_5_url_web.png"
     },
+    "1760289687-25332747904001704": {
+      "id": "1760289687-25332747904001704",
+      "name": "network1_1.png",
+      "parentId": "1760289687-3659174698389323",
+      "size": 105809,
+      "modDate": "2024-02-07T03:33:26.000Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T03 - HTTP GET\\img\\network1_1.png"
+    },
+    "1760289687-7881299348046054": {
+      "id": "1760289687-7881299348046054",
+      "name": "network1_2.png",
+      "parentId": "1760289687-3659174698389323",
+      "size": 153268,
+      "modDate": "2024-02-07T03:35:04.000Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T03 - HTTP GET\\img\\network1_2.png"
+    },
+    "1760289687-16888498603658544": {
+      "id": "1760289687-16888498603658544",
+      "name": "network1_3.png",
+      "parentId": "1760289687-3659174698389323",
+      "size": 246213,
+      "modDate": "2024-02-07T03:35:32.000Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T03 - HTTP GET\\img\\network1_3.png"
+    },
+    "1760289687-3940649674972905": {
+      "id": "1760289687-3940649674972905",
+      "name": "network1_4.png",
+      "parentId": "1760289687-3659174698389323",
+      "size": 279707,
+      "modDate": "2024-02-07T03:36:59.000Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T03 - HTTP GET\\img\\network1_4.png"
+    },
+    "1760289687-2251799814708971": {
+      "id": "1760289687-2251799814708971",
+      "name": "network1_5.png",
+      "parentId": "1760289687-3659174698389323",
+      "size": 312185,
+      "modDate": "2024-02-07T03:36:26.000Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T03 - HTTP GET\\img\\network1_5.png"
+    },
     "1760289687-2533274791546665": {
       "id": "1760289687-2533274791546665",
       "name": "T03.html",
       "parentId": "1760289687-3659174698389266",
-      "size": 106118,
-      "modDate": "2024-01-04T07:42:48.213Z",
+      "size": 115825,
+      "modDate": "2024-02-07T03:41:07.566Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T03 - HTTP GET\\T03.html"
     },
     "1760289687-1688849861414700": {
       "id": "1760289687-1688849861414700",
       "name": "T03.md",
       "parentId": "1760289687-3659174698389266",
-      "size": 2266,
-      "modDate": "2023-11-23T03:10:26.681Z",
+      "size": 2648,
+      "modDate": "2024-02-07T03:39:59.991Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T03 - HTTP GET\\T03.md"
     },
     "1760289687-10133099161699706": {
       "id": "1760289687-10133099161699706",
       "name": "T03.pdf",
       "parentId": "1760289687-3659174698389266",
-      "size": 195226,
-      "modDate": "2024-01-04T07:45:04.249Z",
+      "size": 1111189,
+      "modDate": "2024-02-07T03:41:19.243Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T03 - HTTP GET\\T03.pdf"
     },
     "1760289687-1688849861414762": {
